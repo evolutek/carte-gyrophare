@@ -78,6 +78,10 @@
         [
           "clearance|153878500|88906500|5a7f4e69-c4fd-4653-bab4-b9f6667e3ce2|75996c18-7dac-4d73-8676-a8db4b4a3a3c",
           ""
+        ],
+        [
+          "silk_overlap|152553476|90449279|8ca45659-cb7e-437f-8de3-d54f83910465|afdb820a-923f-4adb-b9d3-33792cceeccb",
+          ""
         ]
       ],
       "meta": {
@@ -527,7 +531,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "carte-gyrophare.step",
       "svg": "",
       "vrml": ""
     },
