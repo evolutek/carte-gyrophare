@@ -8146,7 +8146,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "30"
+		(property "Value" "510"
 			(at 215.9 66.0399 0)
 			(effects
 				(font
