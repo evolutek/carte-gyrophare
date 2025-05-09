@@ -1691,7 +1691,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C3"
-			(at 2.273 -0.127 0)
+			(at 1.27 -1.7 0)
 			(layer "F.SilkS")
 			(uuid "afdb820a-923f-4adb-b9d3-33792cceeccb")
 			(effects
@@ -11271,7 +11271,7 @@
 		(start 140.089668 80.256323)
 		(end 121.17741 95.032198)
 		(stroke
-			(width 0.05)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -11281,7 +11281,7 @@
 		(start 113.173811 84.788058)
 		(end 132.086069 70.012183)
 		(stroke
-			(width 0.05)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -11302,7 +11302,7 @@
 		(start 121.17741 95.032198)
 		(end 113.173811 84.788058)
 		(stroke
-			(width 0.05)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -11312,7 +11312,7 @@
 		(start 132.086069 70.012183)
 		(end 133.860121 72.277784)
 		(stroke
-			(width 0.05)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -11333,7 +11333,7 @@
 		(start 138.73343 78.520418)
 		(end 140.089668 80.256323)
 		(stroke
-			(width 0.05)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -11344,7 +11344,7 @@
 		(mid 139.154622 73.169944)
 		(end 138.73343 78.522543)
 		(stroke
-			(width 0.05)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
