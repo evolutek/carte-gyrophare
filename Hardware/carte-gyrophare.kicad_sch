@@ -5,9 +5,9 @@
 	(uuid "8a949419-cf24-4265-87e5-22c2eee01b7d")
 	(paper "A4")
 	(title_block
-		(title "Mon bb")
-		(date "2025-04-26")
-		(rev "1.0")
+		(title "Carte Gyrophare")
+		(date "2025-05-14")
+		(rev "V1.0")
 	)
 	(lib_symbols
 		(symbol "ComponentsEvo:463092370402"
@@ -9889,7 +9889,7 @@
 		(lib_id "MarkingEvo:Logo Aisler")
 		(at 82.55 165.1 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -9932,15 +9932,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 82.55 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" "0"
 			(at 82.55 165.1 0)
 			(effects
 				(font
@@ -10095,7 +10086,7 @@
 		(lib_id "MarkingEvo:Logo Evolutek")
 		(at 54.61 165.1 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -10138,15 +10129,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" "0"
 			(at 54.61 165.1 0)
 			(effects
 				(font
