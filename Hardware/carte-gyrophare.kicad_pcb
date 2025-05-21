@@ -5572,7 +5572,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "YELLOW"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "0533e704-4a6a-48fd-82c2-6ca45ebc0205")
@@ -6344,7 +6344,7 @@
 				)
 			)
 		)
-		(property "Value" "30"
+		(property "Value" "510"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "a4a5bf47-fc2b-4b3b-b000-7a96166ab2aa")
@@ -7573,7 +7573,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF"
 			(at 2.5 -6.25 90)
 			(layer "B.Fab")
 			(uuid "fd59df78-a09b-4ce4-9ef4-9405cd47e880")

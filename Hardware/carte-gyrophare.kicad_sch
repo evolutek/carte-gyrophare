@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Carte Gyrophare")
-		(date "2025-05-14")
+		(date "2025-05-21")
 		(rev "V1.0")
 	)
 	(lib_symbols
@@ -7785,16 +7785,6 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 69.85) (xy 180.34 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d65864ba-db36-499d-b0a6-0bd5979f00e6")
-	)
-	(wire
-		(pts
 			(xy 153.67 76.2) (xy 180.34 76.2)
 		)
 		(stroke
@@ -7842,6 +7832,16 @@
 			(type default)
 		)
 		(uuid "e4a95e8b-6555-4879-bed0-8615b4f368f8")
+	)
+	(wire
+		(pts
+			(xy 180.34 74.93) (xy 180.34 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed6b2d37-fcd1-47ac-ba3a-e54d7c5976c7")
 	)
 	(wire
 		(pts
@@ -8141,7 +8141,7 @@
 			(at 215.9 63.4999 0)
 			(effects
 				(font
-					(size 1.016 1.016)
+					(size 1.27 1.27)
 				)
 				(justify left)
 			)
@@ -8779,7 +8779,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "YELLOW"
 			(at 217.17 73.9774 90)
 			(effects
 				(font
@@ -10863,7 +10863,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 180.34 73.66 180)
+		(at 180.34 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10871,7 +10871,7 @@
 		(dnp no)
 		(uuid "de057b20-4954-4128-bf11-895034341473")
 		(property "Reference" "C4"
-			(at 182.88 72.3835 0)
+			(at 182.88 71.1135 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10879,8 +10879,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
-			(at 182.626 74.422 0)
+		(property "Value" "10uF"
+			(at 182.626 73.152 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10889,7 +10889,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
-			(at 180.34 73.66 0)
+			(at 180.34 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10898,7 +10898,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 180.34 73.66 0)
+			(at 180.34 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10907,7 +10907,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 180.34 73.66 0)
+			(at 180.34 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
